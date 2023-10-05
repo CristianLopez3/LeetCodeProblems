@@ -1,4 +1,4 @@
-package com.cristian.easyProblems.exercises;
+package com.cristian.problems.easyProblems.exercises;
 
 public class LongestCommonPrefix {
 

@@ -1,4 +1,5 @@
-package com.cristian.easyProblems.exercises;
+package com.cristian.problems.easyProblems.exercises;
+
 import java.util.Arrays;
 import java.util.Map;
 import java.util.HashMap;
