@@ -1,4 +1,4 @@
-package com.cristian.easyProblems.exercises.tests;
+package com.cristian.problems.easy.tests;
 
 import java.util.Stack;
 
