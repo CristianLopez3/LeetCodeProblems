@@ -16,7 +16,7 @@ public class FirstOccurrenceIndex {
         if(haystackLength < needleLength)
             return -1;
 
-        for(int i = 0; i < haystackLength - needleLength; i++){
+        for(int i = 0; i <= haystackLength - needleLength; i++){
             int j = 0;
             while(j < needleLength && haystack.charAt(i + j) == needle.charAt(j)){
                 j++;
