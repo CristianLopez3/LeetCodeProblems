@@ -1,6 +1,6 @@
-package com.cristian.problems.easyProblems.tests;
+package com.cristian.problems.easy.tests;
 
-import com.cristian.problems.easyProblems.exercises.FirstOccurrenceIndex;
+import com.cristian.problems.easy.exercises.FirstOccurrenceIndex;
 
 public class FirstOccurrenceIndexTest {
 

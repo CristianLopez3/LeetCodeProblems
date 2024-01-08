@@ -1,6 +1,6 @@
-package com.cristian.problems.easyProblems.tests;
+package com.cristian.problems.easy.tests;
 
-import com.cristian.problems.easyProblems.exercises.SearchInsertPosition;
+import com.cristian.problems.easy.exercises.SearchInsertPosition;
 
 public class SearchInsertPositionTest {
     public static void main(String[] args) {

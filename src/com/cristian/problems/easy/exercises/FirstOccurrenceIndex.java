@@ -1,4 +1,4 @@
-package com.cristian.problems.easyProblems.exercises;
+package com.cristian.problems.easy.exercises;
 
 public class FirstOccurrenceIndex {
 
