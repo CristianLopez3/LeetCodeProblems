@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "leetcode/src/main/java/com/mycompany/leetcode"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
