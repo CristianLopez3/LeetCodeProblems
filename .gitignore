@@ -2,6 +2,13 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
+.vscode
+.gitattributes
+.gitignore
+.gitignore
+gradlew
+gradlew.bat
 
 ### Eclipse ###
 .apt_generated
@@ -28,3 +35,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
